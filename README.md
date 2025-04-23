@@ -4,21 +4,20 @@ Este é o meu **primeiro** repositório no Github.
 
 Eis um trecho de código em Java:
 
-```java
 System.out.println("olá mundo!");
+
 Como diria o filósofo:
 
-Hardware é o que se chuta, Software é o que se xinga!
+> Hardware é o que se chuta, Software é o que se xinga!
 
-Na disciplina GCC259 - Desenvolvimento de Software Livre, eu irei aprender mais sobre:
+Na disciplina *GCC259 - Desenvolvimento de Software Livre*, eu irei aprender mais sobre:
 
-A história do Software Livre
+1. A história do Software Livre  
+2. Licenciamento de Software  
+3. Modelos de negócio com Software Livre  
 
-Licenciamento de Software
+## Links úteis
 
-Modelos de negócio com Software Livre
+- [Campus Virtual](https://campusvirtual.ufla.br)  
+- [UFLA](https://ufla.br)
 
-Links úteis
-Campus Virtual
-
-UFLA
