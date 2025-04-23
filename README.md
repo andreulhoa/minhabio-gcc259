@@ -4,7 +4,7 @@ Este é o meu **primeiro** repositório no Github.
 
 Eis um trecho de código em Java:
 
-```System.out.println("olá mundo!");
+```System.out.println("olá mundo!");```
 
 Como diria o filósofo:
 
